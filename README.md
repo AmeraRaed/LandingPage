@@ -2,6 +2,7 @@
 # 🔖 Introduction
 Company introduction page
 #	📜  Note
+I design it by bootstrap 
 **  **
 # ✨ Skills used
 - css
