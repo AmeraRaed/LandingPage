@@ -1,5 +1,6 @@
 # LandingPage
 # 🔖 Introduction
+Company introduction page
 #	📜  Note
 **  **
 # ✨ Skills used
